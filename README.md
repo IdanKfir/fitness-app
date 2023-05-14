@@ -1,3 +1,13 @@
+# Dev-Connector
+## Social network to Connect developers.
+
+## Demo - https://ik-fitness.netlify.app/
+
+### Finished App
+![Finished App](https://github.com/IdanKfir/fitness-app/blob/main/fit.gif)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
