@@ -1,5 +1,5 @@
 # Fitness-App
-## Fitness App made using RapidAPI, shows animations of 1300+ exercisses per muscle group
+## Fitness App made using RapidAPI, shows animations of 1300+ exercises per muscle group
 
 ## Demo - https://ik-fitness.netlify.app/
 
