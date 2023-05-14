@@ -1,5 +1,5 @@
-# Dev-Connector
-## Social network to Connect developers.
+# Fitness-App
+## Fitness App made using RapidAPI, shows animations of 1300+ exercisses per muscle group
 
 ## Demo - https://ik-fitness.netlify.app/
 
